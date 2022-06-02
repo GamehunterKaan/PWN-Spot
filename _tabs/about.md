@@ -20,7 +20,6 @@ Of course! All you have to do is [open a pull request!](https://github.com/Gameh
 
 Yeah we love hacking! This is the place for you if you love cyber security, programming or just technology in general.
 
-```python
-while True:
-    print("AUTOMATE THE HACK, HACK THE AUTOMATION!")
-```
+## Who am I?
+
+I am a 15 years old cyber security analyst and software developer. [Click here](https://aboutme.pwnspot.com) to learn more about me!
