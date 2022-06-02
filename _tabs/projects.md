@@ -1,6 +1,6 @@
 ---
-layout: tags
-title: Tags
+layout: projects
+title: Projects
 icon: fas fa-tag
 order: 2
 ---
