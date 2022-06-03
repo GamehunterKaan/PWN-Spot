@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/68380968?s=400&u=3c88b4e8ee5a4a8cf1a3b088cde1b5dcc2ff5745&v=4
+avatar: https://github.com/GamehunterKaan/PWN-Spot/raw/main/assets/logo.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
